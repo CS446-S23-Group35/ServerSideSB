@@ -1,0 +1,3 @@
+deploy/*.tfvars
+deploy/.terraform*
+deploy/terraform.tfstate*
